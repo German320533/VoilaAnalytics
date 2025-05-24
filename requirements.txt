@@ -1,7 +1,8 @@
 voila
-python-dotenv
-sqlalchemy
-psycopg2-binary
+ipywidgets
 openai
 pandas
+psycopg2-binary
+python-dotenv
 matplotlib
+ipykernel
